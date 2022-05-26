@@ -1,0 +1,44 @@
+.First-container{
+    background-color: yellowgreen;
+    bottom: 1px;
+    width: 200px;
+    height: auto;
+    line-height: 31px;
+
+}
+.fa-facebok{
+    color: blue;
+}
+.fa-linkedin{
+    color: blue;
+}
+.fa-youtube{
+    color: red;
+}
+.container2{
+    display: flex;
+    justify-content: space-around;
+    height: 50px;
+    padding-top:20px;
+}
+.fa-twitter{
+    color: rgb(0, 119, 255);
+}
+.fa-pinterest{
+    color: red;
+}
+.fa-whatsapp{
+    color: green;
+}
+li{
+    list-style: none;
+}
+.fa-instagram{
+    background-image: linear-gradient(red, yellow, blue,)
+}
+#grad{
+    color: linenr-;
+}
+.body{
+    background-color: black;
+}
